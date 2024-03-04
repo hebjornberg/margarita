@@ -75,7 +75,14 @@ ol {
     padding-inline-start: 20px;
 }
 
+/* Sign up section */
+#signup {
+    padding: 1rem 1rem 1rem 1rem;
+}
+
+
 /* Footer */
 footer {
     background-color: rgb(243, 176, 108, 0.7);
+    height: 40px;
 }
