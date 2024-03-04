@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,400..700;1,400..700&display=swap')
+@import url('https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,400..700;1,400..700&family=Montserrat:ital@0;1&display=swap')
 
 * {
     padding: 0;
@@ -7,9 +7,16 @@
 }
 
 body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
     color: #ffffff;
     font-family: 'Cabin', sans-serif;
 
+}
+
+h1, h2 {
+    font-family: 'Montserrat', sans-serif;
 }
 
 /* Header */
@@ -17,14 +24,31 @@ header {
     background-color: rgba(22, 64, 28, 0.5)
 }
 
+a {
+    text-decoration:none; 
+    color: #ffffff;
+}
+
 #menu {
+    font-size: 100%; 
     list-style-type: none;  
 }
 
-#menu > li {
-    color: #ffffff;
-    text-decoration: none; 
+ul {
+    padding-inline-start: 0px;
 }
+
+nav {
+    position: absolute;
+    background-color: rgba(22, 64, 28, 0.5)
+    width: 100%;
+    left: 0;
+    padding: 0 1rem;
+    box-shadow: 0 2px 2px #3a3a3a;
+    top: 100%;
+}
+
+
 
 /* Main content */
 main {
