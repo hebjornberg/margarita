@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,400..700;1,400..700&family=Montserrat:ital@0;1&display=swap');
 
+/* General styles */
 body {
     min-height: 100vh;
     display: flex;
@@ -9,6 +10,8 @@ body {
 
 }
 
+/* Fonts for h1, h2 */
+
 h1, h2 {
     font-family: 'Montserrat', sans-serif;
 }
@@ -17,6 +20,8 @@ h1, h2 {
 header {
     background-color: rgba(22, 64, 28, 0.5)
 }
+
+/* Decoration of navigation bar */
 
 a {
     text-decoration:none; 
@@ -41,6 +46,8 @@ main {
     color: #000000;
 }
 
+/* Image */
+
 #glass {
     height: 300px;
     width: 100%;
@@ -48,6 +55,7 @@ main {
     position: relative; 
 }
 
+/* Recipe section */
 #recipe {
     background-color: rgba(145,178,151, 0.4); 
 }
@@ -57,7 +65,15 @@ main {
     padding-inline-start: 20px; 
 }
 
+th {
+    text-align: start;
+}
 
+/* Directions section */
+
+ol {
+    padding-inline-start: 20px;
+}
 
 /* Footer */
 footer {
