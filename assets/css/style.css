@@ -44,11 +44,22 @@ main {
 #glass {
     height: 300px;
     width: 100%;
-    /* background: no-repeat center center/cover; */
+    background: url("../images/margarita.webp") no-repeat center center/cover; */
     position: relative; 
 }
 
+#recipe {
+    background-color: rgba(145,178,151, 0.4); 
+}
+
+#recipe ul {
+    list-style-type: disc;
+    padding-inline-start: 20px; 
+}
+
+
+
 /* Footer */
 footer {
-    background-color: lightpink;
+    background-color: rgb(243, 176, 108, 0.7);
 }
