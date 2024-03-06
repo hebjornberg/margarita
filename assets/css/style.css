@@ -13,7 +13,7 @@ body {
 /* Fonts for h1 */
 
 h1 {
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Montserrat', sans-serif !important;
     font-weight: 900;
     display: flex;
     justify-content: center;
@@ -44,30 +44,6 @@ a {
 ul {
     padding-inline-start: 0px;
 }
-
-/* Nav bar */
-
-/* nav {
-    position: absolute;
-    background-color: rgba(22, 64, 28, 0.5);
-    width: 100%;
-    left: 0;
-    padding: 0 1rem;
-    display: none;
-    top: 100%;
-} */
-
-/* #nav-toggle:checked~nav {
-    display: block;
-}
-
-#nav-toggle {
-    display: none;
-}
-
-.nav-toggle-label {
-    font-size: 2rem;
-} */ 
 
 
 /* Main content */
@@ -187,4 +163,23 @@ h1 {
     flex-direction: row;
 }
 
+}
+
+@media screen and (min-width: 992px) {
+
+    #recipe-parent {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    #recipe {
+        width: 100%;
+    }
+
+    #directions {
+
+        align-self:;
+        width: 100%;
+    }
 }
