@@ -75,6 +75,10 @@ main {
 
 th {
     text-align: start;
+    width: 50%;
+}
+#servings {
+    text-align: end; 
 }
 
 /* Directions section */
@@ -164,6 +168,8 @@ h1 {
 }
 
 }
+
+/* Larger devices (laptops and desktops min: 992px) */
 
 @media screen and (min-width: 992px) {
 
