@@ -75,10 +75,10 @@ main {
 
 th {
     text-align: start;
-    width: 50%;
+    width: 40%;
 }
 #servings {
-    text-align: end; 
+    text-align: center; 
 }
 
 /* Directions section */
