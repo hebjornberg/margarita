@@ -126,8 +126,21 @@ button {
 /* Footer */
 footer {
     background-color: rgb(243, 176, 108, 0.7);
-    height: 40px;
+    height: 80px;
 }
+
+#connect {
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
+
+#connect {
+    font-size: 160%;
+}
+
 
 /* Media query for tablets and larger (768px and larger) */
 
@@ -170,9 +183,8 @@ h1 {
 }
 
 #recipe-parent {
-    display: flex; 
+    display: flex;
     flex-direction: row;
 }
-
 
 }
