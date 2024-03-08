@@ -10,3 +10,13 @@ This page can be used by anyone who is interested in making a margarita.
 
 ![Margarita recipe page on different devices](docs/images/3-devices-black.png)
 
+## Features 
+
+- The title is at the top of the page, which says 'Margarita'
+- The header includes a navigation bar, that takes you to the different sections of the page (Origin, Recipe, Subscribe, Connect)
+- In the Origin section, there is a short description of where the margarita came from. 
+- The Recipe section includes the recipe and also the directions to make the cocktail. 
+- The Subscribe section is for anyone who wants to subscribe to margarita recipes
+- In the Footer, there is a Connect section, that links to the social media pages of the European Bartender School 
+
+![Header section of webpage with navigation links](docs/images/navbar.png)
