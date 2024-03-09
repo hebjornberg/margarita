@@ -38,3 +38,16 @@ This page can be used by anyone who is interested in making a margarita.
 
 - The recipe section provides a margarita recipe, with the ingredients and supplies visualised in a table 
 - The directions for the making of the drink is visualised in an ordered list, to make it clear that the steps needs to be followed in order 
+
+## - Subscribe 
+
+- In the subscribe section, there is a sign up form to subscribe to get more margarita recipes 
+- The form collects your name and email adress
+- The form adds an element of interaction to the recipe page 
+
+## - Connect 
+
+- The footer of the page contains social media links 
+- The social media links navigates to the social media pages of the European Bartender School 
+- This is for the users that might be more interested in disocvering cocktail making
+
