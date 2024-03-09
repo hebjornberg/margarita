@@ -57,7 +57,6 @@ This page can be used by anyone who is interested in making a margarita.
 - This is for the users that might be more interested in disocvering cocktail making
 
 ## Testing 
----
 - I have tested that the webpage works on different browsers: Chrome and Safari 
 - The page is responsive and looks good on different screen sizes, established by using dev tools
 - I have confirmed that the different sections are easy to read, both with text and symbols 
@@ -73,4 +72,11 @@ Accessability:
 
 ![Image of Lighthouse evaluation](docs/images/dev-evaluation.png)
 
+## Deployment 
+- The site was deployed to GitHub pages. The deployment steps were following: 
+1. From the repository on GitHub, navigate to Settings
+2. Navigate to Pages 
+3. Choose the main/root-branch, and save. The page was then deployed. 
+
+The link to the live site - [Margarita - A tangy cocktail](https://hebjornberg.github.io/margarita/)
 
