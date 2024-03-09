@@ -1,6 +1,6 @@
 # Introduction
----
-# Margarita Recipe Page
+
+## Margarita Recipe Page
 
 Recipe page - This is a page with a recipe of a margarita and a brief description of where the cocktail originated from 
 
