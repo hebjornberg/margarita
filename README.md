@@ -20,7 +20,7 @@ This page can be used by anyone who is interested in making a margarita.
 
 ![Header section of webpage with navigation links](docs/images/navbar.png)
 
-### - The Header
+### The Header
 
 - The Header includes a title which says 'Margarita', stating that this is a page about a margarita cocktail
 - The Header has a color scheme that sets the tone of the page, with green and white. 
@@ -28,26 +28,34 @@ This page can be used by anyone who is interested in making a margarita.
 
 ![Image of Origin section of page](docs/images/origin.png)
 
-## - Origin 
+## Origin 
 
 - The Origin section provides a short background story about the history of the margarita
+- This to provide some context for the user regarding the origin of the cocktail
 
 ![Image of Recipe section](docs/images/recipe.png)
 
-## - Recipe 
+## Recipe 
 
 - The recipe section provides a margarita recipe, with the ingredients and supplies visualised in a table 
 - The directions for the making of the drink is visualised in an ordered list, to make it clear that the steps needs to be followed in order 
 
-## - Subscribe 
+![Image of Subscribe form](docs/images/subscribe.png)
+
+## Subscribe 
 
 - In the subscribe section, there is a sign up form to subscribe to get more margarita recipes 
 - The form collects your name and email adress
 - The form adds an element of interaction to the recipe page 
 
-## - Connect 
+![Image of footer with social media links](docs/images/connect.png)
+
+## Connect 
 
 - The footer of the page contains social media links 
 - The social media links navigates to the social media pages of the European Bartender School 
 - This is for the users that might be more interested in disocvering cocktail making
+
+## Testing 
+---
 
