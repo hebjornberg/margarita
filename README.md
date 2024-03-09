@@ -58,4 +58,19 @@ This page can be used by anyone who is interested in making a margarita.
 
 ## Testing 
 ---
+- I have tested that the webpage works on different browsers: Chrome and Safari 
+- The page is responsive and looks good on different screen sizes, established by using dev tools
+- I have confirmed that the different sections are easy to read, both with text and symbols 
+- I have confirmed that the navigation links are functional and that the subscribe section doesn't accept anything that is not a name or an emailadress 
+
+## Validator testing 
+HTML: 
+- Some stray closing tags where found when put through the W3C validator, which were removed. A warning was issued about the id of "signup" recurring twice, but was not removed due to style choice. 
+CSS: 
+- No errors were found when passing the code through the Jigsaw validator. 
+Accessability: 
+- I made sure that the page was accessable with fonts and colors chosen by the Lighthouse evaluation in dev tools
+
+![Image of Lighthouse evaluation](docs/images/dev-evaluation.png)
+
 
