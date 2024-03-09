@@ -73,10 +73,18 @@ Accessability:
 ![Image of Lighthouse evaluation](docs/images/dev-evaluation.png)
 
 ## Deployment 
-- The site was deployed to GitHub pages. The deployment steps were following: 
+The site was deployed to GitHub pages. The deployment steps were following: 
 1. From the repository on GitHub, navigate to Settings
 2. Navigate to Pages 
 3. Choose the main/root-branch, and save. The page was then deployed. 
 
 The link to the live site - [Margarita - A tangy cocktail](https://hebjornberg.github.io/margarita/)
+
+## Credits
+
+### Content 
+- The code for the social media links and parts of the navigation section was taken from the CI [Love Running](https://github.com/hebjornberg/love-running) project
+
+### Media 
+- The image of the margarita glass was taken from [Pexels](https://www.pexels.com/)
 
